@@ -1,0 +1,15 @@
+# Build output (published through GitHub Releases, not committed)
+dist/
+*.exe
+*.pdb
+
+# Python cache (tools/)
+__pycache__/
+
+# Editors / OS
+.vs/
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
